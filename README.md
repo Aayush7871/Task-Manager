@@ -89,17 +89,17 @@ npm install
 
 Create a .env file inside /backend with the following:
 
-PORT=5000
+PORT=4000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 
 
 Run the backend server:
 
-npm run dev
+npm start
 
 
-The server will start at: http://localhost:5000
+The server will start at: http://localhost:4000
 
 3️⃣ Setup Frontend
 cd ../frontend
@@ -108,15 +108,15 @@ npm install
 
 Create a .env file inside /frontend:
 
-REACT_APP_API_URL=http://localhost:5000
+REACT_APP_API_URL=http://localhost:4000
 
 
 Run the frontend:
 
-npm start
+npm run dev
 
 
-Frontend runs on: http://localhost:3000
+Frontend runs on: http://localhost:5173
 
 🔗 API Endpoints
 Auth
@@ -155,3 +155,4 @@ Aayush Raj
 
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute this project as per the license terms.
+
