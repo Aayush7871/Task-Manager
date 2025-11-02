@@ -59,10 +59,6 @@ Frontend
 
 React.js
 
-React Router
-
-Axios
-
 TailwindCSS / Material UI
 
 Backend
@@ -72,10 +68,6 @@ Node.js
 Express.js
 
 MongoDB & Mongoose
-
-JWT & bcrypt.js
-
-dotenv & cors
 
 🧩 Installation & Setup
 1️⃣ Clone the repository
@@ -155,5 +147,6 @@ Aayush Raj
 
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute this project as per the license terms.
+
 
 
